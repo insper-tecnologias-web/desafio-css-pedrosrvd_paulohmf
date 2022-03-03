@@ -4,7 +4,7 @@ DUPLA:
 
 - Pedro Santos Rocha Von Dannecker
 - Paulo Henrique Moreira Falcão
-- Link do GitHub Pages: https://github.com/insper-tecnologias-web/desafio-css-pedrosrvd_paulohmf.git
+- Link do GitHub Pages: https://insper-tecnologias-web.github.io/desafio-css-pedrosrvd_paulohmf/
 
 ## Desafio CSS
 
